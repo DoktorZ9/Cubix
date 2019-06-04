@@ -1,0 +1,2 @@
+Info: - Def was be loaded: C:\Users\astec\Documents\Cubix - build 0.0.1\Assets\Defs\TestDef.lua
+Info: [C:\Users\astec\Documents\Cubix - build 0.0.1\Assets\Defs] has been loaded
